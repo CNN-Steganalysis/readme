@@ -21,7 +21,9 @@ setup: the function to setup environment for the proposed model
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Folders
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-dependencies: this folder contains basic functions of constructing a CNN model with the MatConvNet platform
+dependencies: this folder contains basic functions of constructing a CNN model with the MatConvNet platform. It contains two sub-folders, i.e. matconvnet and vlfeat. These files can be downloaded from following links:
+vlfeat: http://www.vlfeat.org/
+matconvnet: http://www.vlfeat.org/matconvnet/ 
 
 nets: this folder contains a well trained model for S-UNIWARD steganography: trained_net.mat and an untrained model: untrained_net.mat
 
